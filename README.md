@@ -1,1 +1,4 @@
-# hand-written-character-recognition-in-machine-learning-CNN-
+
+
+hand written character recognition in machine learning
+Introduction
